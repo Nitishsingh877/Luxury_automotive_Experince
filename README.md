@@ -1,4 +1,4 @@
-# Luxury Automotive Experience App - Backend
+# Luxury Automotive Experience App 
 
 Complete Java Spring Boot microservices backend implementation for a luxury automotive experience application.
 
